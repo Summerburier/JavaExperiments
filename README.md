@@ -45,7 +45,7 @@ import java.util.Random;
 Random rand = new Random();
 int randomNumber = rand.nextInt();
 ```
-##Java 上机实验 6
+## Java 上机实验 6
 
 ## 说明
 本次实操包含三道题目，分别考察字符串处理、排序与文本统计相关技能。每题提供题目描述、提示、示例输入与预期输出（不包含实现代码）。
